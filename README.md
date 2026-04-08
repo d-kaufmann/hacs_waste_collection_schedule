@@ -37,6 +37,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [App Backend of My Local Services](/doc/source/app_my_local_services_au.md) / localcouncils.sa.gov.au
 - [Armadale (Western Australia)](/doc/source/armadale_wa_gov_au.md) / armadale.wa.gov.au
 - [Australian Capital Territory (ACT)](/doc/source/act_gov_au.md) / cityservices.act.gov.au/recycling-and-waste
+- [Ballina Shire Council](/doc/source/ballina_nsw_gov_au.md) / ballina.nsw.gov.au/Residents/Waste-and-Recycling/Bin-Collection-Day
 - [Banyule City Council](/doc/source/banyule_vic_gov_au.md) / banyule.vic.gov.au
 - [Baw Baw Shire Council](/doc/source/impactapps_com_au.md) / bawbawshire.vic.gov.au
 - [Bayside Council](/doc/source/impactapps_com_au.md) / bayside.nsw.gov.au
@@ -50,6 +51,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Brisbane City Council](/doc/source/impactapps_com_au.md) / brisbane.nsw.gov.au
 - [Brisbane City Council](/doc/source/brisbane_qld_gov_au.md) / brisbane.qld.gov.au
 - [Burwood City Council](/doc/source/impactapps_com_au.md) / burwood.nsw.gov.au
+- [Byron Shire Council](/doc/source/byron_nsw_gov_au.md) / byron.nsw.gov.au/Residential-Services/Waste-Recycling/Bin-Collection-Services/Bin-Collection-Schedules
 - [Campbelltown City Council](/doc/source/app_my_local_services_au.md) / campbelltown.sa.gov.au
 - [Campbelltown City Council (NSW)](/doc/source/campbelltown_nsw_gov_au.md) / campbelltown.nsw.gov.au
 - [Campbeltown City Council](/doc/source/impactapps_com_au.md) / campbelltown.vic.gov.au
@@ -74,6 +76,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [City of Joondalup](/doc/source/joondalup_wa_gov_au.md) / joondalup.wa.gov.au
 - [City of Kalamunda](/doc/source/kalamunda_wa_gov_au.md) / kalamunda.wa.gov.au/kerbside-3-bin-system/collection-days/bin-day
 - [City of Kingston](/doc/source/kingston_vic_gov_au.md) / kingston.vic.gov.au
+- [City of Manningham](/doc/source/manningham_vic_gov_au.md) / manningham.vic.gov.au
 - [City of Mitcham](/doc/source/app_my_local_services_au.md) / mitchamcouncil.sa.gov.au
 - [City of Monash](/doc/source/monash_vic_gov_au.md) / monash.vic.gov.au
 - [City of Moonee Valley](/doc/source/moonee_valley_vic_gov_au.md) / mvcc.vic.gov.au
@@ -114,6 +117,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Forbes Shire Council](/doc/source/impactapps_com_au.md) / forbes.nsw.gov.au
 - [Frankston City Council](/doc/source/frankston_vic_gov_au.md) / frankston.gov.au
 - [Gold Coast City Council](/doc/source/goldcoast_qld_gov_au.md) / goldcoast.qld.gov.au
+- [Greater Dandenong City Council](/doc/source/greaterdandenong_vic_gov_au.md) / greaterdandenong.vic.gov.au
 - [Gwydir Shire Council](/doc/source/impactapps_com_au.md) / gwydir.nsw.gov.au
 - [Gympie Regional Council](/doc/source/impactapps_com_au.md) / gympie.qld.gov.au
 - [Hobsons Bay City Council](/doc/source/hobsonsbay_vic_gov_au.md) / hobsonsbay.vic.gov.au
@@ -130,6 +134,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Ku-ring-gai Council](/doc/source/impactapps_com_au.md) / krg.nsw.gov.au
 - [Lake Macquarie City Council](/doc/source/lakemac_nsw_gov_au.md) / lakemac.com.au
 - [Light Regional Council](/doc/source/app_my_local_services_au.md) / light.sa.gov.au
+- [Lismore City Council](/doc/source/lismore_city_nsw_gov_au.md) / lismore.nsw.gov.au/Households/Waste-and-recycling/Whats-My-Bin-Day1
 - [Lithgow City Council](/doc/source/impactapps_com_au.md) / lithgow.nsw.gov.au
 - [Liverpool City Council (NSW)](/doc/source/liverpool_nsw_gov_au.md) / liverpool.nsw.gov.au
 - [Livingstone Shire Council](/doc/source/impactapps_com_au.md) / livingstone.qld.gov.au
@@ -142,6 +147,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Merri-bek City Council](/doc/source/merri_bek_vic_gov_au.md) / merri-bek.vic.gov.au
 - [Mid Murray Council](/doc/source/app_my_local_services_au.md) / mid-murray.sa.gov.au
 - [MidCoast Council](/doc/source/midcoast_nsw_gov_au.md) / midcoast.nsw.gov.au
+- [Mitchell Shire Council](/doc/source/mitchellshire_vic_gov_au.md) / mitchellshire.vic.gov.au
 - [Moira Shire Council](/doc/source/impactapps_com_au.md) / moira.vic.gov.au
 - [Moorabool Shire Council](/doc/source/moorabool_vic_gov_au.md) / moorabool.vic.gov.au
 - [Moree Plains Shire Council](/doc/source/impactapps_com_au.md) / mpsc.nsw.gov.au
@@ -749,7 +755,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Niagara Region](/doc/ics/recollect.md) / niagararegion.ca
 - [Norfolk County (ON)](/doc/source/recyclecoach_com.md) / norfolkcounty.ca
 - [Oak Bay (BC)](/doc/source/recyclecoach_com.md) / oakbay.ca
-- [Orillia, Ontario](/doc/source/orillia_ca.md) / orillia.ca
+- [Orillia (ON)](/doc/source/recyclecoach_com.md) / orillia.ca
 - [Ottawa, Canada](/doc/ics/recollect.md) / ottawa.ca
 - [Peel Region, ON](/doc/ics/recollect.md) / peelregion.ca
 - [Prince George (BC)](/doc/source/recyclecoach_com.md) / princegeorge.ca
@@ -1091,6 +1097,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [EKM Mittelsachsen GmbH](/doc/ics/ekm_mittelsachsen_de.md) / ekm-mittelsachsen.de
 - [ELW - Entsorgungsbetriebe der Landeshauptstadt Wiesbaden](/doc/ics/elw_de.md) / elw.de
 - [Emmering](/doc/source/awido_de.md) / lra-ebe.de
+- [ENNI Energie & Umwelt Niederrhein (Moers)](/doc/ics/abfallkalender_enni_de.md) / abfallkalender.enni.de
 - [Entsorgung Dortmund GmbH (EDG)](/doc/source/app_abfallplus_de.md) / Abfall+ App: abfallapp
 - [Entsorgungs- und Wirtschaftsbetrieb Landau in der Pfalz](/doc/source/c_trace_de.md) / ew-landau.de
 - [Entsorgungsbetrieb Märkisch-Oderland](/doc/ics/entsorgungsbetrieb_mol_de.md) / entsorgungsbetrieb-mol.de
@@ -1316,6 +1323,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Landkreis Neumarkt](/doc/source/abfuhrplan_landkreis_neumarkt_de.md) / abfuhrplan-landkreis-neumarkt.de
 - [Landkreis Nordwestmecklenburg](/doc/source/geoport_nwm_de.md) / geoport-nwm.de
 - [Landkreis Northeim (unofficial)](/doc/ics/nerdbridge_de.md) / abfall.nerdbridge.de
+- [Landkreis Oldenburg](/doc/source/abfall_io.md) / oldenburg-kreis.de
 - [Landkreis Ostallgäu](/doc/source/abfall_io.md) / buerger-ostallgaeu.de
 - [Landkreis Paderborn (MyMuell App)](/doc/source/jumomind_de.md) / mymuell.de
 - [Landkreis Peine](/doc/ics/ab_peine_de.md) / ab-peine.de
@@ -1394,6 +1402,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Moosach](/doc/source/awido_de.md) / lra-ebe.de
 - [Mossautal](/doc/source/reso_gmbh_de.md) / reso-gmbh.de
 - [MZV Biedenkopf](/doc/source/buergerportal_de.md) / mzv-biedenkopf.de
+- [MZV Hegau](/doc/source/mzvhegau_de.md) / mzvhegau.de
 - [MZV Rotenburg](/doc/source/mzv_rotenburg_bebra_de.md) / mzv-rotenburg-bebra.de
 - [Mörfelden-Walldorf](/doc/ics/moerfelden_walldorf_de.md) / moerfelden-walldorf.de
 - [Mühlheim am Main (MyMuell App)](/doc/source/jumomind_de.md) / mymuell.de
@@ -2019,6 +2028,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Bettembourg](/doc/ics/bettembourg_lu.md) / bettembourg.lu
 - [Betzdorf](/doc/source/betzdorf_lu.md) / betzdorf.lu
 - [Esch-sur-Alzette](/doc/source/esch_lu.md) / esch.lu
+- [Luxembourg](/doc/source/luxembourg_lu.md) / data.public.lu
 - [SICA](/doc/source/sica_lu.md) / sica.lu
 - [SIDEC](/doc/source/sidec_lu.md) / sidec.lu
 - [Valorlux](/doc/source/valorlux_lu.md) / valorlux.lu
@@ -2335,6 +2345,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Stenungsunds kommun](/doc/source/edpevent_se.md) / stenungsund.se
 - [Sysav Sophämntning](/doc/source/sysav_se.md) / sysav.se
 - [Söderköping](/doc/source/avfallsapp_se.md) / soderkoping.se
+- [Telge Återvinning](/doc/source/telge_se.md) / telge.se
 - [Uppsala Vatten](/doc/source/edpevent_se.md) / uppsalavatten.se
 - [Uppsala Vatten och Avfall AB (Deprecated)](/doc/source/uppsalavatten_se.md) / uppsalavatten.se
 - [VA Syd Sophämntning](/doc/source/vasyd_se.md) / vasyd.se
@@ -2364,6 +2375,8 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Gaiserwald](/doc/source/a_region_ch.md) / a-region.ch
 - [Gasel](/doc/source/koeniz_ch.md) / koeniz.citymobile.ch
 - [Goldach](/doc/source/a_region_ch.md) / a-region.ch
+- [Gossau ZH](/doc/ics/gossau_zh_ch.md) / gossau-zh.ch
+- [Grenchen (CH)](/doc/source/grenchen_ch.md) / grenchen.ch
 - [Grosswangen](/doc/source/grosswangen_ch.md) / grosswangen.ch
 - [Grub](/doc/source/a_region_ch.md) / a-region.ch
 - [Heiden](/doc/source/a_region_ch.md) / a-region.ch
@@ -2484,6 +2497,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Cheshire West and Chester Council](/doc/source/cheshire_west_and_chester_gov_uk.md) / cheshirewestandchester.gov.uk
 - [Chesterfield Borough Council](/doc/source/chesterfield_gov_uk.md) / chesterfield.gov.uk
 - [Chichester District Council](/doc/source/chichester_gov_uk.md) / chichester.gov.uk
+- [Chorley Council](/doc/source/chorley_gov_uk.md) / chorley.gov.uk
 - [City of Doncaster Council](/doc/source/doncaster_gov_uk.md) / doncaster.gov.uk
 - [City Of Lincoln Council](/doc/source/lincoln_gov_uk.md) / lincoln.gov.uk
 - [City of York Council](/doc/source/york_gov_uk.md) / york.gov.uk
@@ -2580,6 +2594,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Malvern Hills District Council](/doc/source/roundlookup_uk.md) / malvernhills.gov.uk
 - [Manchester City Council](/doc/source/manchester_uk.md) / manchester.gov.uk
 - [Mansfield District Council](/doc/source/mansfield_gov_uk.md) / mansfield.gov.uk
+- [Medway Council](/doc/source/medway_gov_uk.md) / medway.gov.uk
 - [Melton Borough Council](/doc/source/melton_gov_uk.md) / melton.gov.uk
 - [Mendip District Council](/doc/source/iapp_itouchvision_com.md) / mendip.gov.uk
 - [Mid and East Antrim](/doc/source/midandeastantrim_gov_uk.md) / midandeastantrim.gov.uk
@@ -2679,6 +2694,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Swansea Council](/doc/source/swansea_gov_uk.md) / swansea.gov.uk
 - [Swindon Borough Council](/doc/source/swindon_gov_uk.md) / swindon.gov.uk
 - [Tameside Metropolitan Borough Council](/doc/source/tameside_gov_uk.md) / tameside.gov.uk
+- [Teignbridge District Council](/doc/source/teignbridge_gov_uk.md) / teignbridge.gov.uk
 - [Telford and Wrekin Council](/doc/source/telford_gov_uk.md) / telford.gov.uk
 - [Test Valley Borough Council](/doc/source/iapp_itouchvision_com.md) / testvalley.gov.uk
 - [Tewkesbury Borough Council](/doc/source/tewkesbury_gov_uk.md) / tewkesbury.gov.uk
