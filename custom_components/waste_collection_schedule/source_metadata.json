@@ -172,6 +172,13 @@
     "howto": {},
     "urls": {}
   },
+  "melvillecity_com_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/melvillecity_com_au.md",
+    "howto": {
+      "en": "Enter your street address including suburb (e.g. '43 Williams Road, Melville, WA'). Search at https://www.melvillecity.com.au/waste-and-environment/waste-recycling-fogo/residential-bins"
+    },
+    "urls": {}
+  },
   "monash_vic_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/monash_vic_gov_au.md",
     "howto": {
@@ -202,6 +209,20 @@
   "subiaco_wa_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/subiaco_wa_gov_au.md",
     "howto": {},
+    "urls": {}
+  },
+  "swan_wa_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/swan_wa_gov_au.md",
+    "howto": {
+      "en": "Enter your street address including suburb (e.g. '34 Oldenburg Pass Stratton'). Search at https://www.swan.wa.gov.au/waste-and-sustainability/waste-and-recycling-services/bins/find-my-bin-day"
+    },
+    "urls": {}
+  },
+  "teatreegully_sa_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/teatreegully_sa_gov_au.md",
+    "howto": {
+      "en": "Enter your street address (e.g. '4 Erica Street, Tea Tree Gully'). Search at https://www.teatreegully.sa.gov.au/services/bins-and-waste/bin-collection-days"
+    },
     "urls": {}
   },
   "wanneroo_wa_gov_au": {
@@ -283,6 +304,13 @@
   "lakemac_nsw_gov_au": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/lakemac_nsw_gov_au.md",
     "howto": {},
+    "urls": {}
+  },
+  "lanecove_nsw_gov_au": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/lanecove_nsw_gov_au.md",
+    "howto": {
+      "en": "Visit the Lane Cove Council website and search for your address. Use the exact address shown in the autocomplete result."
+    },
     "urls": {}
   },
   "lismore_city_nsw_gov_au": {
@@ -829,17 +857,25 @@
   "publidata_fr": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/publidata_fr.md",
     "howto": {
-      "de": "Der INSEE-Code Ihrer Gemeinde kann leicht über Google gefunden werden. Die instance_id kann durch einen Netzwerk-Inspektor vom offiziellen Widget ermittelt werden",
-      "en": "The INSEE code of your commune is easily found on google. instance_id can be found through a network inspecter from the official widget",
-      "it": "Il codice INSEE del tuo comune si trova facilmente su Google. L'instance_id può essere trovato attraverso un ispettore di rete dal widget ufficiale"
+      "de": "Geben Sie Ihre Straßenadresse ein (nur Hausnummer und Straßenname, ohne Stadt oder Postleitzahl). Den aktuellen INSEE-Code Ihrer Gemeinde finden Sie unter https://www.insee.fr/fr/recherche/recherche-geographique — fusionierte Gemeinden (communes nouvelles) haben einen neuen Code. Die instance_id wird automatisch ausgefüllt, wenn Sie einen bekannten Dienstleister auswählen.",
+      "en": "Enter your street address (number and street name only, without city or postcode). Find your commune's current INSEE code at https://www.insee.fr/fr/recherche/recherche-geographique — note that merged communes (communes nouvelles) have a new code. The instance_id is pre-filled when you select a known service provider.",
+      "it": "Inserisci il tuo indirizzo (solo numero civico e nome della via, senza città o codice postale). Trova il codice INSEE aggiornato del tuo comune su https://www.insee.fr/fr/recherche/recherche-geographique — i comuni uniti (communes nouvelles) hanno un nuovo codice. L'instance_id viene precompilato quando selezioni un fornitore noto."
     },
     "urls": {
-      "url_infos_dechets_gpseo_fr_4e79ytzv7m_list__addressid_78005_0073_00002": "https://infos-dechets.gpseo.fr/4E79YtZv7M/list/?addressId=78005_0073_00002"
+      "url_www_insee_fr": "https://www.insee.fr"
     }
   },
   "cc-montesquieu_fr": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/cc-montesquieu_fr.md",
     "howto": {},
+    "urls": {}
+  },
+  "grandbesancon_fr": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/grandbesancon_fr.md",
+    "howto": {
+      "en": "Find your commune's INSEE code at https://www.insee.fr. Enter your street name as shown on the Grand Besançon waste calendar at https://data.grandbesancon.fr/opendata/dataset/joursDeCollecteDechets.",
+      "fr": "Trouvez le code INSEE de votre commune sur https://www.insee.fr. Entrez le nom de votre rue tel qu'affiché sur le calendrier des déchets de Grand Besançon à https://data.grandbesancon.fr/opendata/dataset/joursDeCollecteDechets."
+    },
     "urls": {}
   },
   "mamirolle_info": {
@@ -852,6 +888,14 @@
     "howto": {
       "en": "Enter your full address as you would on the memotri.agglo-pau.fr website, including street number, street name, postal code, and city.",
       "fr": "Saisissez votre adresse complète comme sur le site memotri.agglo-pau.fr, avec numéro de rue, nom de rue, code postal et ville."
+    },
+    "urls": {}
+  },
+  "data_grandlyon_com": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/data_grandlyon_com.md",
+    "howto": {
+      "en": "Enter your street address including the city name (e.g. '1 place Roger Salengro, Oullins').",
+      "fr": "Entrez votre adresse complète avec le nom de la commune (ex : '1 place Roger Salengro, Oullins')."
     },
     "urls": {}
   },
@@ -1356,6 +1400,14 @@
     "howto": {},
     "urls": {}
   },
+  "magdeburg_de": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/magdeburg_de.md",
+    "howto": {
+      "de": "Geben Sie Ihren Straßennamen und die Hausnummer ein, wie auf der SAB Magdeburg Webseite angezeigt (z.B. 'Halberstädter Chaussee 66'). Suchen Sie unter https://sab.ssl.metageneric.de/app/sab_i_tp/index.php",
+      "en": "Enter your street name and house number as shown on the SAB Magdeburg website (e.g. 'Halberstädter Chaussee 66'). Search at https://sab.ssl.metageneric.de/app/sab_i_tp/index.php"
+    },
+    "urls": {}
+  },
   "abfuhrplan_schwabach_de": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/abfuhrplan_schwabach_de.md",
     "howto": {},
@@ -1434,6 +1486,14 @@
   "zke_sb_de": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/zke_sb_de.md",
     "howto": {},
+    "urls": {}
+  },
+  "zvo_com": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/zvo_com.md",
+    "howto": {
+      "de": "Finden Sie Ihren Ort und Ihre Straße unter https://www.zvo.com/abfuhrkalender2026. Einige kleinere Orte benötigen keine Straße.",
+      "en": "Find your city and street at https://www.zvo.com/abfuhrkalender2026. Some smaller towns do not require a street."
+    },
     "urls": {}
   },
   "zakb_de": {
@@ -1769,6 +1829,11 @@
     "howto": {},
     "urls": {}
   },
+  "sumavfall_no": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sumavfall_no.md",
+    "howto": {},
+    "urls": {}
+  },
   "sims_pl": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sims_pl.md",
     "howto": {},
@@ -2016,6 +2081,13 @@
     "howto": {},
     "urls": {}
   },
+  "nsr_se": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/nsr_se.md",
+    "howto": {
+      "en": "Enter your street address as shown on the NSR website (e.g. 'Storgatan 1'). Do not include postal code. Search at https://nsr.se/privat/allt-om-din-sophamtning/nar-toms-mitt-karl/tomningskalender/"
+    },
+    "urls": {}
+  },
   "narab_se": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/narab_se.md",
     "howto": {},
@@ -2135,11 +2207,19 @@
     "howto": {},
     "urls": {}
   },
+  "localcities_ch": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/localcities_ch.md",
+    "howto": {
+      "de": "Besuchen Sie die Seite Ihrer Gemeinde auf localcities.ch. Der Gemeindename und die ID sind in der URL (z.B. /de/entsorgung/volketswil/529). Die Zone wird neben jedem Entsorgungstermin angezeigt.",
+      "en": "Visit your municipality's page on localcities.ch. The municipality name and ID are in the URL (e.g. /de/entsorgung/volketswil/529). The zone is shown next to each waste collection entry on the calendar."
+    },
+    "urls": {}
+  },
   "grenchen_ch": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/grenchen_ch.md",
     "howto": {
-      "de": "Wählen Sie Ihre Zone (Zone Ost oder Zone West). Auf <a href='https://www.localcities.ch/de/entsorgung/grenchen/3533'>localcities.ch</a> finden Sie Ihre Zone.",
-      "en": "Select your zone (Zone Ost or Zone West). Check <a href='https://www.localcities.ch/de/entsorgung/grenchen/3533'>localcities.ch</a> to find your zone."
+      "de": "Diese Quelle ist veraltet. Bitte verwenden Sie 'localcities.ch' mit municipality='grenchen' und municipality_id='3533'.",
+      "en": "This source is deprecated. Please use 'localcities.ch' instead with municipality='grenchen' and municipality_id='3533'."
     },
     "urls": {}
   },
@@ -3168,6 +3248,13 @@
     "urls": {
       "url_www_findmyaddress_co_uk": "https://www.findmyaddress.co.uk/"
     }
+  },
+  "mole_valley_gov_uk": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/mole_valley_gov_uk.md",
+    "howto": {
+      "en": "Enter your postcode and house number or name. You can verify your address at https://myproperty.molevalley.gov.uk/molevalley/"
+    },
+    "urls": {}
   },
   "monmouthshire_gov_uk": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/monmouthshire_gov_uk.md",
