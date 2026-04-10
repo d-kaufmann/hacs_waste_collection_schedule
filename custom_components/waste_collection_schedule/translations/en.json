@@ -798,6 +798,29 @@
         },
         "data_description": {}
       },
+      "args_kwinana_wa_gov_au": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "address": "Street address with suburb (e.g. '25 Breccia Parade WELLARD')"
+        }
+      },
+      "reconfigure_kwinana_wa_gov_au": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "address": "Street address with suburb (e.g. '25 Breccia Parade WELLARD')"
+        }
+      },
       "args_manningham_vic_gov_au": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
@@ -1108,6 +1131,29 @@
           "address": "Address"
         },
         "data_description": {}
+      },
+      "args_frasercoast_qld_gov_au": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "address": "Street address with suburb (e.g. '57 Arbornine Road Glenwood')"
+        }
+      },
+      "reconfigure_frasercoast_qld_gov_au": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "address": "Street Address"
+        },
+        "data_description": {
+          "address": "Street address with suburb (e.g. '57 Arbornine Road Glenwood')"
+        }
       },
       "args_goldcoast_qld_gov_au": {
         "title": "Configure Source",
@@ -3141,6 +3187,24 @@
         },
         "data_description": {}
       },
+      "args_rohrbach_lafnitz_at": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used."
+        }
+      },
+      "reconfigure_rohrbach_lafnitz_at": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title"
+        },
+        "data_description": {}
+      },
       "args_ics_traiskirchen_gv_at": {
         "title": "Configure Source",
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
@@ -3901,6 +3965,29 @@
         },
         "data_description": {
           "address": "Your full address / Votre adresse complete"
+        }
+      },
+      "args_pointe_claire_qc_ca": {
+        "title": "Configure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "sector": "Sector"
+        },
+        "data_description": {
+          "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
+          "sector": "Collection sector (A or B)"
+        }
+      },
+      "reconfigure_pointe_claire_qc_ca": {
+        "title": "Reconfigure Source",
+        "description": "Configure your service provider. {howto}More details: {docs_url}.",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "sector": "Sector"
+        },
+        "data_description": {
+          "sector": "Collection sector (A or B)"
         }
       },
       "args_ville_quebec_qc_ca": {

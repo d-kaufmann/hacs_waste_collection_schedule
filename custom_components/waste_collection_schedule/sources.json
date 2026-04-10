@@ -303,6 +303,12 @@
       "id": "kingston_vic_gov_au"
     },
     {
+      "title": "City of Kwinana",
+      "module": "kwinana_wa_gov_au",
+      "default_params": {},
+      "id": "kwinana_wa_gov_au"
+    },
+    {
       "title": "City of Manningham",
       "module": "manningham_vic_gov_au",
       "default_params": {},
@@ -567,6 +573,12 @@
       "module": "frankston_vic_gov_au",
       "default_params": {},
       "id": "frankston_vic_gov_au"
+    },
+    {
+      "title": "Fraser Coast Regional Council",
+      "module": "frasercoast_qld_gov_au",
+      "default_params": {},
+      "id": "frasercoast_qld_gov_au"
     },
     {
       "title": "Gold Coast City Council",
@@ -3267,6 +3279,12 @@
       "id": "citiesapps_com"
     },
     {
+      "title": "Rohrbach an der Lafnitz",
+      "module": "rohrbach_lafnitz_at",
+      "default_params": {},
+      "id": "rohrbach_lafnitz_at"
+    },
+    {
       "title": "Rosental a.d Kainach",
       "module": "lipizzanerheimat_at",
       "default_params": {},
@@ -4490,6 +4508,12 @@
         "split_at": "\\, (?:and )?|(?: and )"
       },
       "id": "ics_recollect"
+    },
+    {
+      "title": "Pointe-Claire (QC)",
+      "module": "pointe_claire_qc_ca",
+      "default_params": {},
+      "id": "pointe_claire_qc_ca"
     },
     {
       "title": "Prince George (BC)",
@@ -13571,11 +13595,11 @@
     },
     {
       "title": "Reinis",
-      "module": "ximmio_nl",
+      "module": "hvcgroep_nl",
       "default_params": {
-        "company": "reinis"
+        "service": "reinis"
       },
-      "id": "ximmio_nl"
+      "id": "hvcgroep_nl"
     },
     {
       "title": "Spaarnelanden",
@@ -15817,6 +15841,15 @@
         "municipality": "Waldstatt"
       },
       "id": "a_region_ch"
+    },
+    {
+      "title": "Wangen bei Olten",
+      "module": "localcities_ch",
+      "default_params": {
+        "municipality": "wangen-bei-olten",
+        "municipality_id": "3629"
+      },
+      "id": "localcities_ch"
     },
     {
       "title": "Wiedlisbach",

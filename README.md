@@ -35,7 +35,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Alexandrina Council](/doc/source/app_my_local_services_au.md) / alexandrina.sa.gov.au
 - [Alexandrina Council](/doc/source/frwa_com_au.md) / alexandrina.sa.gov.au
 - [App Backend of My Local Services](/doc/source/app_my_local_services_au.md) / localcouncils.sa.gov.au
-- [Armadale (Western Australia)](/doc/source/armadale_wa_gov_au.md) / armadale.wa.gov.au
+- [Armadale (Western Australia)](/doc/source/armadale_wa_gov_au.md) / my.armadale.wa.gov.au
 - [Australian Capital Territory (ACT)](/doc/source/act_gov_au.md) / cityservices.act.gov.au/recycling-and-waste
 - [Ballina Shire Council](/doc/source/ballina_nsw_gov_au.md) / ballina.nsw.gov.au/Residents/Waste-and-Recycling/Bin-Collection-Day
 - [Banyule City Council](/doc/source/banyule_vic_gov_au.md) / banyule.vic.gov.au
@@ -76,6 +76,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [City of Joondalup](/doc/source/joondalup_wa_gov_au.md) / joondalup.wa.gov.au
 - [City of Kalamunda](/doc/source/kalamunda_wa_gov_au.md) / kalamunda.wa.gov.au/kerbside-3-bin-system/collection-days/bin-day
 - [City of Kingston](/doc/source/kingston_vic_gov_au.md) / kingston.vic.gov.au
+- [City of Kwinana](/doc/source/kwinana_wa_gov_au.md) / kwinana.wa.gov.au
 - [City of Manningham](/doc/source/manningham_vic_gov_au.md) / manningham.vic.gov.au
 - [City of Melville](/doc/source/melvillecity_com_au.md) / melvillecity.com.au
 - [City of Mitcham](/doc/source/app_my_local_services_au.md) / mitchamcouncil.sa.gov.au
@@ -119,6 +120,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Fleurieu Regional Waste Authority](/doc/source/frwa_com_au.md) / fleurieuregionalwasteauthority.com.au
 - [Forbes Shire Council](/doc/source/impactapps_com_au.md) / forbes.nsw.gov.au
 - [Frankston City Council](/doc/source/frankston_vic_gov_au.md) / frankston.gov.au
+- [Fraser Coast Regional Council](/doc/source/frasercoast_qld_gov_au.md) / frasercoast.qld.gov.au
 - [Gold Coast City Council](/doc/source/goldcoast_qld_gov_au.md) / goldcoast.qld.gov.au
 - [Greater Dandenong City Council](/doc/source/greaterdandenong_vic_gov_au.md) / greaterdandenong.vic.gov.au
 - [Gwydir Shire Council](/doc/source/impactapps_com_au.md) / gwydir.nsw.gov.au
@@ -561,6 +563,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Rettenegg](/doc/source/citiesapps_com.md) / rettenegg.at
 - [Rohr bei Hartberg](/doc/source/citiesapps_com.md) / rohr-bei-hartberg.at
 - [Rohr im Burgenland](/doc/source/citiesapps_com.md) / rohr-bgld.at
+- [Rohrbach an der Lafnitz](/doc/source/rohrbach_lafnitz_at.md) / rohrbach-lafnitz.at
 - [Rosental a.d Kainach](/doc/source/lipizzanerheimat_at.md) / rosental-kainach.at
 - [Rottenbach](/doc/source/citiesapps_com.md) / rottenbach.gv.at
 - [Rudersdorf](/doc/source/citiesapps_com.md) / rudersdorf.at
@@ -763,6 +766,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Orillia (ON)](/doc/source/recyclecoach_com.md) / orillia.ca
 - [Ottawa, Canada](/doc/ics/recollect.md) / ottawa.ca
 - [Peel Region, ON](/doc/ics/recollect.md) / peelregion.ca
+- [Pointe-Claire (QC)](/doc/source/pointe_claire_qc_ca.md) / pointe-claire.ca
 - [Prince George (BC)](/doc/source/recyclecoach_com.md) / princegeorge.ca
 - [Publidata (Canada) generic source](/doc/source/publidata_ca.md) / publidata.ca
 - [Québec (QC)](/doc/source/ville_quebec_qc_ca.md) / ville.quebec.qc.ca/services/info-collecte
@@ -2099,7 +2103,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [RAD BV](/doc/source/ximmio_nl.md) / radbv.nl
 - [Rd4](/doc/source/rd4_nl.md) / rd4.nl
 - [Reinigingsdienst Midden Nederland](/doc/source/burgerportaal_nl.md) / rmn.nl
-- [Reinis](/doc/source/ximmio_nl.md) / reinis.nl
+- [Reinis](/doc/source/hvcgroep_nl.md) / reinis.nl
 - [Spaarnelanden](/doc/source/hvcgroep_nl.md) / spaarnelanden.nl
 - [Twente Milieu](/doc/source/ximmio_nl.md) / twentemilieu.nl
 - [Waardlanden](/doc/source/ximmio_nl.md) / waardlanden.nl
@@ -2442,6 +2446,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Wald](/doc/source/a_region_ch.md) / a-region.ch
 - [Waldkirch](/doc/source/a_region_ch.md) / a-region.ch
 - [Waldstatt](/doc/source/a_region_ch.md) / a-region.ch
+- [Wangen bei Olten](/doc/source/localcities_ch.md) / wangen-bei-olten.ch
 - [Wiedlisbach](/doc/ics/mopage_ch.md) / wiedlisbach.mopage.ch
 - [Winterthur](/doc/source/winterthur_ch.md) / winterthur.ch
 - [Wittenbach](/doc/source/a_region_ch.md) / a-region.ch
